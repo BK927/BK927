@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bk927&label=Profile%20views&color=0e75b6&style=flat" alt="bk927" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://bk927.github.io/portfolio](https://bk927.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [https://bk927.github.io/?/portfolio](https://bk927.github.io/?/portfolio)
 
 - 📝 I regularly write articles on [https://bustermachinelab.net/](https://bustermachinelab.net/)
 
