@@ -28,8 +28,8 @@
 <h3 align="left">Blog posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [인간관계에 오해가 생기는 이유](https://bustermachinelab.net/why-people-misunderstand-me/)
-- [파이썬 assert문 사용법](https://bustermachinelab.net/how-to-use-python-assert/)
-- [django media 파일 다루기](https://bustermachinelab.net/how-to-handle-django-media/)
-- [django admin 페이지 다루기](https://bustermachinelab.net/how-to-use-django-admin/)
+- [인간관계에 오해가 생기는 이유](https://bustermachinelab.net/인간관계에-오해가-생기는-이유/)
+- [파이썬 assert문 사용법](https://bustermachinelab.net/파이썬-assert문-사용법/)
+- [django media 파일 다루기](https://bustermachinelab.net/django-media-파일-다루기/)
+- [django admin 페이지 다루기](https://bustermachinelab.net/django-admin-페이지-다루기/)
 <!-- BLOG-POST-LIST:END -->
