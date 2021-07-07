@@ -28,8 +28,8 @@
 <h3 align="left">Blog posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [일단 알면 무조건 도움되는 공부 잘하는 법](https://bustermachinelab.net/일단-알면-무조건-도움되는-공부-잘하는-법/)
 - [인간관계에 오해가 생기는 이유](https://bustermachinelab.net/인간관계에-오해가-생기는-이유/)
 - [파이썬 assert문 사용법](https://bustermachinelab.net/파이썬-assert문-사용법/)
 - [django media 파일 다루기](https://bustermachinelab.net/django-media-파일-다루기/)
-- [django admin 페이지 다루기](https://bustermachinelab.net/django-admin-페이지-다루기/)
 <!-- BLOG-POST-LIST:END -->
