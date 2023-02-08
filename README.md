@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://bk927.github.io/?/portfolio](https://bk927.github.io/?/portfolio)
 
-- 📝 I regularly write articles on [https://bustermachinelab.net/](https://bustermachinelab.net/)
-
 - 📫 How to reach me **dead4bees927@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
