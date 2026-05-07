@@ -1,24 +1,80 @@
-<h1 align="center">Hi 👋, I'm BK927</h1>
-<h3 align="center">A passionate backend developer from South Korea.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bk927&label=Profile%20views&color=0e75b6&style=flat" alt="bk927" /> </p>
+```text
+╭────────────────────────────────────────────╮
+│ BK927 LAB                                  │
+│ tools for stories, games, and machines     │
+╰────────────────────────────────────────────╯
+```
 
-- 👨‍💻 All of my projects are available at [https://bk927.github.io/?/portfolio](https://bk927.github.io/?/portfolio)
+### Toolmaker for AI-assisted creation
 
-- 📫 How to reach me **dead4bees927@gmail.com**
+![AI Tools](https://img.shields.io/badge/AI_Tools-111827?style=for-the-badge)
+![Creative Workflows](https://img.shields.io/badge/Creative_Workflows-7c3aed?style=for-the-badge)
+![Indie Dev](https://img.shields.io/badge/Indie_Dev-0f766e?style=for-the-badge)
+![Local First](https://img.shields.io/badge/Local_First-374151?style=for-the-badge)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@dead4bees927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@dead4bees927" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10475664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="10475664" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bk927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="bk927" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+> I use GitHub as a workshop, not a trophy case.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bk927&show_icons=true&locale=en&layout=compact" alt="bk927" /></p>
+I’m an indie developer experimenting with local-first AI workflows, creative utilities, desktop apps, and small tools for people who write stories, build games, and talk to machines.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bk927&show_icons=true&locale=en" alt="bk927" /></p>
+Most repositories here are prototypes, forks, personal tools, or unfinished experiments — traces of ideas I tested, modified, and learned from.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bk927&" alt="bk927" /></p>
+## 🧭 Current Areas
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Local AI Workflows
+Experiments around MCP, CLI-based AI tools, local automation, and safer ways to connect AI to personal workflows.
+
+</td>
+<td width="50%">
+
+### 🎮 Creator / Game Tools
+Utilities for pixel art, game reviews, asset preparation, and indie development workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✍️ Writing Tools
+Ideas around web novels, story workflows, writing assistance, and creator-side automation.
+
+</td>
+<td width="50%">
+
+### 🧪 Forks & Prototypes
+Fork-based modifications, small personal tools, and experiments that may become real products later.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>🛠️ Stack I often reach for</summary>
+
+TypeScript · React · Python · Electron · Tauri · Rust · SQLite · Node.js
+
+</details>
+
+<details>
+<summary>📌 What to expect from this profile</summary>
+
+This profile is intentionally closer to a workshop than a polished portfolio.
+
+Some projects are incomplete.  
+Some are forks.  
+Some are small utilities made to solve one oddly specific problem.
+
+I’m interested in slowly turning personal annoyances into usable tools.
+
+</details>
+
+## Contact
+
+- Email: dead4bees927@gmail.com****
